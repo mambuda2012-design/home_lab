@@ -1,0 +1,2 @@
+Команда - echo $SHELL
+Результат - /usr/bin/bash
