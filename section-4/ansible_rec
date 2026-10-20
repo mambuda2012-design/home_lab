@@ -1,0 +1,2 @@
+Команда: apt show ansible | grep Recommends
+Рекомендации: python3-argcomplete

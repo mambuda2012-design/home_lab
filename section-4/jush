@@ -1,0 +1,1 @@
+Команда удаления пакета и его зависимостей: sudo apt purge -y libjs-jquery-jush && sudo apt autoremove -y
