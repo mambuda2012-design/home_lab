@@ -1,0 +1,2 @@
+Команда: apt show ansible | grep Depends
+Зависимости: ansible-core (>= 2.14.0), python3

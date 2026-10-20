@@ -1,0 +1,2 @@
+Команда: dpkg -l | grep wget
+Ответ: wget
